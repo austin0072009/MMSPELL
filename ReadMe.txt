@@ -1,2 +1,1 @@
-这是一款小语种学习软件，目前只开发了框架，只使用了win32的GDI
-打开软件exe即可，有一些小游戏
+App for Chinese user to learn barmese
